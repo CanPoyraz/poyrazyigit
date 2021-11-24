@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-iThis is the second change!
+This is the second change!
 =======
 First change!
 >>>>>>> d9b87773d0dd7f05baf651708c833d89a9a20dd2
